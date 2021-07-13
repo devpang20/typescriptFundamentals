@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "sik2",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
