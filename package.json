@@ -1,0 +1,12 @@
+{
+  "name": "typescriptFundamentals",
+  "version": "1.0.0",
+  "description": "Typescript Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sik2",
+  "license": "MIT"
+}
